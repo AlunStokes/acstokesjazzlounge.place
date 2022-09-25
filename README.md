@@ -1,2 +1,2 @@
 # acstokesjazzlounge.place
- Is any of that really unclear?
+[Is any of that really unclear?](http://acstokesjazzlounge.place)
