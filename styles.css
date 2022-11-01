@@ -51,3 +51,81 @@ h3 {
     font-family: 'IBM Plex Mono', monospace;
     font-weight: 300;
 }
+
+.please-enjoy {
+    font-weight: 400;
+}
+
+.centred-text {
+    text-align: center;
+}
+
+.em-style {
+    font-size: 1em;
+}
+
+
+.c00 {
+    color: #FF0000;
+}
+.c01 {
+    color: #FF5A00;
+}
+
+
+.c11 {
+    color: #FFB400;
+}
+.c12 {
+    color: #F0FF00;
+}
+
+
+.c21 {
+    color: #96FF00;
+}
+.c22 {
+    color: #3CFF00;
+}
+
+.c31 {
+    color: #00FF1E;
+}
+.c32 {
+    color: #00FF78;
+}
+
+.c41 {
+    color: #00FFD2;
+}
+.c42 {
+    color: #00D2FF";
+}
+
+.c51 {
+    color: #0078FF;
+}
+.c52 {
+    color: #001EFF;
+}
+
+.c61 {
+    color: #3C00FF;
+}
+.c62 {
+    color: #9600FF;
+}
+
+.c71 {
+    color: #F000FF;
+}
+.c72 {
+    color: #FF00B4;
+}
+
+.c81 {
+    color: #FF005A;
+}
+.c82 {
+    ;
+}
