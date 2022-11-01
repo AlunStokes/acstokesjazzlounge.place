@@ -64,6 +64,10 @@ h3 {
     font-size: 1em;
 }
 
+.em-class {
+    margin: 0;
+}
+
 
 .c00 {
     color: #FF0000;
@@ -126,6 +130,39 @@ h3 {
 .c81 {
     color: #FF005A;
 }
-.c82 {
-    ;
+
+
+
+.phone-break {
+    display: none;
+}
+
+
+
+@media (max-width: 750px) {
+
+    .em-class {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    .phone-break {
+        display: inline;
+    }
+
+    .pleas-enjoy {
+        margin-top: 3vh;
+        margin-bottom: 3vh;
+    }
+
+    .img-loader-dessin {
+        margin-left: 10vw;
+        width: 80vw;
+    }
+
+    .img-loader-couch {
+        margin-left: 10vw;
+        width: 80vw;
+    }
+
 }
